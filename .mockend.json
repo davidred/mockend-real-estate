@@ -7,7 +7,7 @@
     "createdAt": "date",
     "updatedAt": "date",
   },
-  "Property": {
+  "Apartment": {
     "street_number": "int",
     "street_1": "string",
     "street_2": "string",
