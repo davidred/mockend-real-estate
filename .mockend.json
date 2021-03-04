@@ -7,15 +7,6 @@
     "createdAt": "date",
     "updatedAt": "date",
   },
-  "Apartment": {
-    "street_number": "int",
-    "street_1": "string",
-    "street_2": "string",
-    "state": "string",
-    "zip": "int",
-    "createdAt": "date",
-    "updatedAt": "date"
-  },
   "Unit": {
     "unit_number": "int",
     "createdAt": "date",
