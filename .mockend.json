@@ -13,7 +13,7 @@
     "body": "string",
     "post": "Post"
   },
-  "Post": {
+  "Apartment": {
     "title": "string"
   }
 }
