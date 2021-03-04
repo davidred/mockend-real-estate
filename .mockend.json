@@ -14,11 +14,12 @@
     "state": "string",
     "zip": "int",
     "createdAt": "date",
-    "updatedAt": "date"
+    "updatedAt": "date",
+    "units": "Unit[]"
   },
   "Unit": {
     "unit_number": "int",
-    "property": "Property",
+    "apartment": "Apartment",
     "createdAt": "date",
     "updatedAt": "date"
   }
