@@ -12,5 +12,8 @@
   "Comment": {
     "body": "string",
     "post": "Post"
+  },
+  "Post": {
+    "title": "string"
   }
 }
