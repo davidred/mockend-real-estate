@@ -3,8 +3,6 @@
     "first_name": "string",
     "last_name": "string",
     "email": "email",
-    "views": "int",
-    "published": "boolean",
     "createdAt": "date",
     "updatedAt": "date",
     "properties": "Property[]"
