@@ -7,13 +7,13 @@
     "published": "boolean",
     "createdAt": "date",
     "updatedAt": "date",
-    "comments": "Comment[]"
+    "properties": "Property[]"
   },
   "Comment": {
     "body": "string",
     "post": "Post"
   },
-  "Apartment": {
+  "Property": {
     "title": "string"
   }
 }
