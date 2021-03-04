@@ -6,10 +6,5 @@
     "password": "string",
     "createdAt": "date",
     "updatedAt": "date",
-  },
-  "Unit": {
-    "unit_number": "int",
-    "createdAt": "date",
-    "updatedAt": "date"
   }
 }
