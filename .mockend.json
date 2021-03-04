@@ -9,11 +9,20 @@
     "updatedAt": "date",
     "properties": "Property[]"
   },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
-  },
   "Property": {
-    "title": "string"
+    "street": "string",
+    "city": "string",
+    "state": "string",
+    "createdAt": "date",
+    "units": "Unit[]"
+  },
+  "Unit": {
+    "number": "string",
+    "marketRent": "int",
+    "leasedRent": "int",
+    "leaseCommencement": "date",
+    "leaseExpiration": "date",
+    "renovated": "boolean",
+    "property": "Property"
   }
 }
