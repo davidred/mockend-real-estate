@@ -3,14 +3,23 @@
     "first_name": "string",
     "last_name": "string",
     "email": "email",
-    "views": "int",
-    "published": "boolean",
+    "password": "string",
     "createdAt": "date",
     "updatedAt": "date",
-    "comments": "Comment[]"
   },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
+  "Property": {
+    "street_number": "int",
+    "street_1": "string",
+    "street_2": "string",
+    "state": "string,
+    "zip": "int",
+    "createdAt": "date",
+    "updatedAt": "date"
+  },
+  "Unit": {
+    "unit_number": "int",
+    "property": "Property",
+    "createdAt": "date",
+    "updatedAt": "date"
   }
 }
