@@ -3,8 +3,14 @@
     "first_name": "string",
     "last_name": "string",
     "email": "email",
-    "password": "string",
+    "views": "int",
+    "published": "boolean",
     "createdAt": "date",
     "updatedAt": "date",
+    "comments": "Comment[]"
+  },
+  "Comment": {
+    "body": "string",
+    "post": "Post"
   }
 }
