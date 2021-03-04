@@ -11,7 +11,7 @@
     "street_number": "int",
     "street_1": "string",
     "street_2": "string",
-    "state": "string,
+    "state": "string",
     "zip": "int",
     "createdAt": "date",
     "updatedAt": "date"
