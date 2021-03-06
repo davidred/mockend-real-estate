@@ -2,7 +2,10 @@
   "properties": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
+      "street": "East 19th St",
+      "city": "Brooklyn",
+      "state": "New York"
     }
   ],
   "users": [
