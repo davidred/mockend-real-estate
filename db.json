@@ -5,6 +5,13 @@
       "title": "hello"
     }
   ],
+  "users": [
+    {"id": 1, "name": "David"}
+  ],
+  "properties": [
+    {"id": 1, "street": "East 19th St"}
+  ],
+  "units": [{"id": 1, "number": "2"}],
   "profile": {
     "name": "typicode"
   }
