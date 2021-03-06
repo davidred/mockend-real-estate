@@ -5,7 +5,8 @@
       "title": "hello",
       "street": "East 19th St",
       "city": "Brooklyn",
-      "state": "New York"
+      "state": "New York",
+      "unitIds": [1]
     }
   ],
   "users": [
